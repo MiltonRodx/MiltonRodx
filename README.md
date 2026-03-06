@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,postgresql,mysql,python,flask,debian,ubuntu,bash,aws,docker,kubernetes,kali,linux,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,postgresql,mysql,python,debian,ubuntu,bash,docker,kubernetes,kali,linux,vscode)](https://skillicons.dev)
 <br/>
 
 <br/>
