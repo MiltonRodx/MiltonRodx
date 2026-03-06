@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 ## Hello👋, I'm <a href="https://miltonrodx.com" target="_blank">MiltonRodx</a>!
 
+<img src="img/it-crowd-fire.gif" alt="Programando">
+
+
 ### About me:
 - 👨🏻  Milton Nahuel Rodriguez Rivas
 - 👨🏻‍💻   Software Developer | Backend & Linux Enthusiast
