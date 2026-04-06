@@ -9,7 +9,7 @@
 ### About Me
 - **👨🏻‍💻** Milton Nahuel Rodriguez Rivas  
 - **🔥** Backend Developer & Linux Enthusiast  
-- **🏛** Computer Science Student — *Licenciatura en Sistemas* at **UNNE**  
+- **🏛** Computer Science Student — *Licenciatura en Sistemas de Información* at **UNNE**  
 - **🎂** 18 years old  
 - **🇦🇷** Based in Argentina  
 
