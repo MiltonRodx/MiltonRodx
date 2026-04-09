@@ -23,12 +23,15 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiltonRodx&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&cache_seconds=86400" alt="MiltonRodx's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonRodx&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&cache_seconds=86400" alt="Top Languages" width="49%" />
-</div>
 
-> *Stats are cached for 24 hours to avoid rate limits. If they don't appear right away, just refresh the page once — they load instantly after caching.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiltonRodx&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonRodx&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&cache_seconds=86400" width="48%" />
+</p>
+
+<p align="center">
+  <em>Stats are cached for 24 hours to avoid rate limits. If they don't appear right away, refresh the page once.</em>
+</p>
 
 ---
 
