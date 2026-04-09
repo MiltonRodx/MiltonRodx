@@ -25,12 +25,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiltonRodx&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonRodx&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&cache_seconds=86400" width="48%" />
-</p>
-
-<p align="center">
-  <em>Stats are cached for 24 hours to avoid rate limits. If they don't appear right away, refresh the page once.</em>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiltonRodx&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiltonRodx&layout=compact" width="48%" />
 </p>
 
 ---
