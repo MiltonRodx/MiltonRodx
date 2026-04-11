@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hello, I'm <a href="https://miltonrodx.com" target="_blank">MiltonRodx</a>!</h1>
   <img src="img/it-crowd-fire.gif" alt="Programando 🔥" width="420" style="border-radius: 12px; margin: 20px 0;">
-  <p><strong>Building the backend. Loving the terminal. 18 and already shipping.</strong></p>
+  <p><strong>Building the backend. Loving the terminal. 18 n' already shipping.</strong></p>
 </div>
 
 ---
