@@ -43,5 +43,5 @@
 
 ---
 
-**Made with ❤️ and too much caffeine**  
+**Made with ❤️ and <em>too</em> much caffeine**  
 Always down to collaborate or talk Linux at 3 AM.
