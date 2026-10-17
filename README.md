@@ -1,13 +1,12 @@
-# MiltonRodx
+# Milton N. Rodriguez
 
-Trainee Backend Developer and Linux enthusiast. CS student at UNNE (*Licenciatura en Sistemas de Información*), Argentina.
+Trainee Full-Stack developer and Linux enthusiast. CS student at UNNE (*Licenciatura en Sistemas de Información*), Argentina.
 
 ---
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,react,vscode,linux&perline=14)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,react,postgres,docker,aws,java,spring,bash,debian,dotnet,postman,py&perline=8)](https://skillicons.dev)
 ---
 
 ### Stats
